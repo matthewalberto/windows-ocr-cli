@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Keep documents and their OCR text out of version control.
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.ocr.txt
+*.tmp
+work/
+pages/
