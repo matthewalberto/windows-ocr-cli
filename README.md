@@ -4,7 +4,7 @@ Turn scanned PDFs and images into searchable text on your own Windows PC, using 
 
 ## Why it matters
 
-- **The problem:** old deeds, gift agreements, wills and board minutes are often scans with no text layer, so nobody can search them, and confidential files shouldn't go to a cloud OCR service.
+- **The problem:** old scanned legal and archive documents often have no text layer, so nobody can search them, and confidential files shouldn't go to a cloud OCR service.
 - **What this saves:** searchable text on the machine where the files already are, with no new software to buy or get approved.
 - **Where it came from:** built to read scanned legal records in my own research.
 
@@ -14,7 +14,7 @@ Nothing is uploaded. There's no cloud service, no account and no API key, so con
 
 ## Who it's for
 
-- **Legal, records and archives staff** with old scans that have no text layer: recorded deeds, gift agreements, wills, board minutes, annual returns, court filings. You get a plain text file per document that you can search, quote from and compare.
+- **Legal, records and archives staff** with old scans that have no text layer: scanned legal and archive documents. You get a plain text file per document that you can search, quote from and compare.
 - **Developers** who need a free, local OCR step in a pipeline and already run on Windows.
 
 ## What you need
